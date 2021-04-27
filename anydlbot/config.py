@@ -38,7 +38,7 @@ class Config:
     CHUNK_SIZE = int(os.environ.get("CHUNK_SIZE", 4096))
     PROCESS_MAX_TIMEOUT = int(os.environ.get("PROCESS_MAX_TIMEOUT", 3600))
     DEFAULT_THUMBNAIL = os.environ.get(
-        "DEF_THUMB_NAIL_VID_S", "https://via.placeholder.com/320x320.jpg"
+        "DEF_THUMB_NAIL_VID_S", "https://telegra.ph/file/10d2c11a47c39cf085550.jpg"
     )
     MAX_MESSAGE_LENGTH = int(os.environ.get("MAX_MESSAGE_LENGTH", 4096))
 
