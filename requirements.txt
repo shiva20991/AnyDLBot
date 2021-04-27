@@ -4,6 +4,7 @@ Pillow
 pyrogram
 requests
 tgcrypto
-youtube-dl
 pykeyboard
 ffmpeg-python
+#youtube-dl
+git+https://github.com/ytdl-org/youtube-dl
