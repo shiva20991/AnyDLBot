@@ -5,6 +5,6 @@ pyrogram
 requests
 tgcrypto
 pykeyboard
+youtube-dl
 ffmpeg-python
-#youtube-dl
-git+https://github.com/ytdl-org/youtube-dl
+
